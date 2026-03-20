@@ -1,0 +1,4 @@
+.env.bsky
+owid-energy-data.csv
+__pycache__/
+*.pyc
