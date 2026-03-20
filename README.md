@@ -6,13 +6,26 @@
   <a href="mailto:info@energtx.com"><img src="https://img.shields.io/badge/Contact-info@energtx.com-E2E8F0?style=for-the-badge" alt="Email"></a>
 </p>
 
-**100 infographic visualizations** of global energy data — electricity, renewables, CO₂, fossil fuels, and energy transitions across **56 countries**.
+**142 infographic visualizations** of global energy data — electricity, renewables, CO₂, fossil fuels, oil crisis, and energy transitions across **56 countries**.
 
-Built with **R + ggplot2** using data from [Our World in Data](https://github.com/owid/energy-data). All visuals use the energtx dark theme.
+Built with **R + ggplot2** using data from [Our World in Data](https://github.com/owid/energy-data) and [JODI Oil World Database](https://www.jodidata.org/oil/). All visuals use the energtx dark theme.
 
 ---
 
 ## Gallery
+
+### Oil Crisis & JODI Data (2026 Hormuz)
+
+| | | |
+|---|---|---|
+| ![Oil Producers](png/131_oil_producers_jodi.png) | ![Oil Importers](png/132_oil_importers_jodi.png) | ![Oil Demand](png/133_oil_demand_jodi.png) |
+| Top 15 Crude Oil Producers | Top 15 Crude Oil Importers | Total Oil Products Demand |
+| ![Diesel Demand](png/134_diesel_demand_jodi.png) | ![Production Trend](png/135_oil_production_trend.png) | ![Import Dependency](png/136_energy_import_dependency.png) |
+| Diesel Demand — Top 15 | Oil Production Trend (20yr) | Energy Import Dependency |
+| ![Net Balance](png/137_oil_net_balance.png) | ![Gasoline vs Diesel](png/138_gasoline_vs_diesel.png) | ![Crude Stocks](png/139_crude_oil_stocks.png) |
+| Production vs Demand (Dumbbell) | Gasoline vs Diesel Demand | Crude Oil Stocks by Country |
+| ![Refinery Output](png/140_refinery_output.png) | ![Import Trend](png/141_oil_import_trend.png) | ![Products Breakdown](png/142_oil_products_breakdown.png) |
+| Top 15 Refinery Output | Oil Import Trend — Top 5 | Oil Products Breakdown |
 
 ### Country Comparisons
 
@@ -80,9 +93,9 @@ Built with **R + ggplot2** using data from [Our World in Data](https://github.co
 
 ## Data
 
-- **Source:** [Our World in Data — Energy Dataset](https://github.com/owid/energy-data)
-- **Coverage:** 56 countries, 130+ indicators, 170,000+ records
-- **Time Range:** 1990–2024
+- **Source:** [Our World in Data — Energy Dataset](https://github.com/owid/energy-data), [JODI Oil World Database](https://www.jodidata.org/oil/)
+- **Coverage:** 56 countries, 145+ indicators, 186,000+ records
+- **Time Range:** 1990–2026
 
 ## Theme
 
@@ -126,7 +139,9 @@ energtx-infographics/
 ├── 04_batch2.R         # Batch 2: Charts 56-100
 ├── 03_post_texts.md    # Bluesky post captions
 ├── post_to_bsky.py     # Bluesky posting script
-└── png/                # 100 infographic PNGs (1200×675)
+├── generate_oil_crisis_charts.R    # Oil crisis charts (JODI data)
+├── generate_oil_premium_charts.R   # Premium oil charts (dumbbell, stacked, trend)
+└── png/                # 142 infographic PNGs (3000×1688 @ 300 DPI)
 ```
 
 ## Links
