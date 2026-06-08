@@ -380,6 +380,57 @@ Explore → energtx.com/datasets
 
 #ClimateData #Electricity #EnergyTransition #EnergyData #DataViz #RStats
 
+
+## 161 — 161_electrification_of_energy.png
+The slow electrification of everything 🔌
+Electricity as a share of total energy use, 1990 → 2023.
+
+Every major economy is wiring up — yet most still draw under a quarter of their energy as electricity.
+
+Explore → energtx.com/datasets
+
+#Electrification #EnergyTransition #EnergyData #DataViz #RStats
+
+## 162 — 162_lowcarbon_elec_leaders.png
+The world's cleanest power systems 🌱
+Top 15 by low-carbon share of electricity (renewables + nuclear), 2023.
+
+Hydro nations, nuclear France & wind pioneers all clear 90%. Clean power isn't one recipe.
+
+Explore → energtx.com/datasets
+
+#CleanEnergy #Nuclear #Renewables #EnergyData #DataViz #RStats
+
+## 163 — 163_energy_productivity_change.png
+Doing more with less ⚙️
+Change in energy needed per $ of GDP, 2000 → 2022.
+
+Teal = economies that got leaner (China, UK, US). Red = headed the wrong way. Efficiency is the quiet half of the transition.
+
+Explore → energtx.com/datasets
+
+#EnergyEfficiency #EnergyData #ClimateData #DataViz #RStats
+
+## 164 — 164_gas_bridge_slope.png
+The 'bridge fuel' that kept growing 🔥
+Natural gas as a share of energy, 2000 → 2023.
+
+The US rode the shale boom; China climbed off coal; Italy & the UK leaned in. Gas became the swing fuel.
+
+Explore → energtx.com/datasets
+
+#NaturalGas #EnergyTransition #EnergyData #DataViz #RStats
+
+## 165 — 165_asia_electricity_surge.png
+Asia's quiet electricity revolution ⚡
+Power use per person (kWh), 1990 → 2023.
+
+China's line goes vertical; Vietnam races up; India climbs steadily. Billions of people plugging in changes everything.
+
+Explore → energtx.com/datasets
+
+#Asia #Electricity #Energy #EnergyData #DataViz #RStats
+
 ---
 # Generated for energtx.bsky.social
 # All data from Our World in Data via energtx.com

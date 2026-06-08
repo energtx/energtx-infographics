@@ -143,6 +143,16 @@ ggrepel, treemapify, patchwork, countrycode, glue
 | ![Grid Carbon Intensity](png/160_grid_carbon_intensity.png) |
 | Grid Carbon Intensity |
 
+
+### OWID Energy — June 2026 batch 3
+
+| | | |
+|---|---|---|
+| ![Electrification of Energy (1990→2023)](png/161_electrification_of_energy.png) | ![Clean Power Leaders 2023](png/162_lowcarbon_elec_leaders.png) | ![Energy Productivity Change (2000→2022)](png/163_energy_productivity_change.png) |
+| Electrification of Energy (1990→2023) | Clean Power Leaders 2023 | Energy Productivity Change (2000→2022) |
+| ![The Gas Bridge (2000→2023)](png/164_gas_bridge_slope.png) | ![Asia's Electricity Surge](png/165_asia_electricity_surge.png) |
+| The Gas Bridge (2000→2023) | Asia's Electricity Surge |
+
 ## File Structure
 
 ```
