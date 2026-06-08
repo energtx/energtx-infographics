@@ -129,6 +129,20 @@ tidyverse, ggplot2, showtext, ggtext, scales,
 ggrepel, treemapify, patchwork, countrycode, glue
 ```
 
+
+### Global Energy Transition — June 2026 batch
+
+| | | |
+|---|---|---|
+| ![Solar's Decade (2010→2024)](png/151_solar_share_decade.png) | ![Fossil Share Change (2000→2023)](png/152_fossil_share_change.png) | ![Greenest Grids 2023](png/153_renewable_elec_leaders.png) |
+| Solar's Decade (2010→2024) | Fossil Share Change (2000→2023) | Greenest Grids 2023 |
+| ![Europe Quits Coal Power](png/154_europe_coal_phaseout.png) | ![G7 Energy Mix (1990→2023)](png/155_g7_energy_mix_1990_2023.png) | ![Europe's Wind Decade (Heatmap)](png/156_europe_wind_heatmap.png) |
+| Europe Quits Coal Power | G7 Energy Mix (1990→2023) | Europe's Wind Decade (Heatmap) |
+| ![The Nuclear Split](png/157_nuclear_share_split.png) | ![Energy Use vs Renewables (Bubble)](png/158_energy_vs_renewable_scatter.png) | ![G20 Electricity Stack](png/159_g20_electricity_stack.png) |
+| The Nuclear Split | Energy Use vs Renewables (Bubble) | G20 Electricity Stack |
+| ![Grid Carbon Intensity](png/160_grid_carbon_intensity.png) |
+| Grid Carbon Intensity |
+
 ## File Structure
 
 ```

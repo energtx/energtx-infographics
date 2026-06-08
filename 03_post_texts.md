@@ -279,6 +279,107 @@ More renewables = less carbon? The scatter plot says yes — but it's not a stra
 energtx.com/datasets · info@energtx.com
 #Renewables #CO2 #Emissions #ScatterPlot #DataViz #RStats #TidyTuesday
 
+
+## 151 — 151_solar_share_decade.png
+Solar's decade ☀️
+Share of electricity from solar, 2010 → 2024.
+
+China, the US, Germany, India, Australia & Spain — a technology that was a rounding error in 2010 now runs in double digits.
+
+Explore → energtx.com/datasets
+
+#Solar #CleanEnergy #EnergyTransition #EnergyData #DataViz #RStats
+
+## 152 — 152_fossil_share_change.png
+Who actually broke up with fossil fuels?
+Change in fossil share of primary energy, 2000 → 2023.
+
+Teal bars = decarbonising. Red = leaning in harder. The spread is wider than you'd think.
+
+Explore → energtx.com/datasets
+
+#FossilFuels #EnergyTransition #ClimateData #EnergyData #DataViz #RStats
+
+## 153 — 153_renewable_elec_leaders.png
+The greenest grids on Earth 🌍
+Top 15 countries by renewable share of electricity, 2023.
+
+Hydro giants and wind-and-solar pioneers share the leaderboard — several already run past 90%.
+
+Explore → energtx.com/datasets
+
+#Renewables #CleanEnergy #EnergyTransition #EnergyData #DataViz #RStats
+
+## 154 — 154_europe_coal_phaseout.png
+Europe is quitting coal power.
+Coal's share of electricity, 2000 vs 2023.
+
+The UK fell from a third of its power to almost none. Germany, Spain, Italy & France pulled back — Poland still leans hard.
+
+Explore → energtx.com/datasets
+
+#Coal #EnergyTransition #ClimateData #EnergyData #DataViz #RStats
+
+## 155 — 155_g7_energy_mix_1990_2023.png
+How the G7 actually powers itself ⚡
+Energy mix by source, 1990 → 2023.
+
+Coal fades, gas swells, renewables climb the stack — France stays nuclear, Japan pivots after Fukushima.
+
+Explore → energtx.com/datasets
+
+#EnergyMix #EnergyTransition #G7 #EnergyData #DataViz #RStats
+
+## 156 — 156_europe_wind_heatmap.png
+Europe's wind decade 🌬️
+Share of electricity from wind, 2000 → 2023.
+
+Denmark lights up first and never lets go; Ireland, the UK & Iberia follow. The heat spreads down the map year by year.
+
+Explore → energtx.com/datasets
+
+#Wind #CleanEnergy #EnergyTransition #EnergyData #DataViz #RStats
+
+## 157 — 157_nuclear_share_split.png
+The great nuclear split ⚛️
+Share of electricity from nuclear, 2000 → 2023.
+
+Germany walks out, Japan crashes after Fukushima — while China climbs from near-zero. France stays the world's nuclear giant.
+
+Explore → energtx.com/datasets
+
+#Nuclear #Energy #EnergyTransition #EnergyData #DataViz #RStats
+
+## 158 — 158_energy_vs_renewable_scatter.png
+Does using more energy mean dirtier energy? 🤔
+Energy use per person vs renewable share, 2023. Bubble = population.
+
+Norway & Iceland sit high-and-clean; the Gulf states high-and-fossil. No single rule.
+
+Explore → energtx.com/datasets
+
+#EnergyData #Renewables #DataViz #RStats #ClimateData
+
+## 159 — 159_g20_electricity_stack.png
+How the G20 makes its electricity ⚡
+Generation by source (TWh), 1990 → 2023.
+
+The pile keeps growing — but watch wind & solar go from invisible to a thick band at the top in barely a decade.
+
+Explore → energtx.com/datasets
+
+#EnergyMix #Electricity #EnergyTransition #EnergyData #DataViz #RStats
+
+## 160 — 160_grid_carbon_intensity.png
+Cleaning up the grid 🔌
+Carbon intensity of electricity (gCO₂/kWh), 2000 → 2023. Lower = cleaner.
+
+The UK dives as coal dies; France sits low on nuclear; India & China stay high but are bending.
+
+Explore → energtx.com/datasets
+
+#ClimateData #Electricity #EnergyTransition #EnergyData #DataViz #RStats
+
 ---
 # Generated for energtx.bsky.social
 # All data from Our World in Data via energtx.com
