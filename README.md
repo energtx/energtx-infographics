@@ -165,7 +165,10 @@ energtx-infographics/
 ├── post_to_bsky.py     # Bluesky posting script
 ├── generate_oil_crisis_charts.R    # Oil crisis charts (JODI data)
 ├── generate_oil_premium_charts.R   # Premium oil charts (dumbbell, stacked, trend)
-└── png/                # 142 infographic PNGs (3000×1688 @ 300 DPI)
+├── 07_spec_generate.R  # Spec-driven renderer (reads specs/*.json → WebP)
+├── post_spec_batches.py # Posts spec-driven batches to Bluesky
+├── specs/              # JSON chart specs for the June 2026 batches (151-165) + mapping
+└── png/                # infographic PNGs (energtx dark theme)
 ```
 
 ## Links

@@ -1,0 +1,109 @@
+[
+ {
+  "id": "161",
+  "type": "line",
+  "indicator": "electricity_share_energy",
+  "countries": [
+   "China",
+   "United States",
+   "Germany",
+   "Japan",
+   "India",
+   "South Korea",
+   "France"
+  ],
+  "year_from": 1990,
+  "year_to": 2023,
+  "percent": true,
+  "title": "The electrification of energy: electricity's share of total energy (1990 → 2023)",
+  "subtitle": "Electricity as a share of primary energy · 1990–2023 · selected economies",
+  "post_text": "The slow electrification of everything 🔌\nElectricity as a share of total energy use, 1990 → 2023.\n\nEvery major economy is wiring up — yet most still draw under a quarter of their energy as electricity.\n\nExplore → energtx.com/datasets\n\n#Electrification #EnergyTransition #EnergyData #DataViz #RStats"
+ },
+ {
+  "id": "162",
+  "type": "hbar",
+  "indicator": "low_carbon_share_elec",
+  "year": 2023,
+  "top_n": 15,
+  "percent": true,
+  "title": "Clean power leaders: low-carbon share of electricity (2023)",
+  "subtitle": "Top 15 countries by low-carbon (renewables + nuclear) share of electricity · 2023",
+  "post_text": "The world's cleanest power systems 🌱\nTop 15 by low-carbon share of electricity (renewables + nuclear), 2023.\n\nHydro nations, nuclear France & wind pioneers all clear 90%. Clean power isn't one recipe.\n\nExplore → energtx.com/datasets\n\n#CleanEnergy #Nuclear #Renewables #EnergyData #DataViz #RStats"
+ },
+ {
+  "id": "163",
+  "type": "diverging",
+  "indicator": "energy_per_gdp",
+  "year_from": 2000,
+  "year_to": 2022,
+  "countries": [
+   "United States",
+   "China",
+   "Japan",
+   "Germany",
+   "India",
+   "United Kingdom",
+   "France",
+   "Italy",
+   "Canada",
+   "South Korea",
+   "Russia",
+   "Brazil",
+   "Australia",
+   "Mexico",
+   "Indonesia",
+   "Saudi Arabia",
+   "Turkey",
+   "Argentina",
+   "South Africa",
+   "Spain",
+   "Netherlands",
+   "Poland"
+  ],
+  "top_n": 16,
+  "percent": false,
+  "title": "Doing more with less: change in energy needed per $ of GDP (2000 → 2022)",
+  "subtitle": "Change in primary energy used per unit of GDP · 2000 vs 2022 · major economies (lower = more efficient)",
+  "post_text": "Doing more with less ⚙️\nChange in energy needed per $ of GDP, 2000 → 2022.\n\nTeal = economies that got leaner (China, UK, US). Red = headed the wrong way. Efficiency is the quiet half of the transition.\n\nExplore → energtx.com/datasets\n\n#EnergyEfficiency #EnergyData #ClimateData #DataViz #RStats"
+ },
+ {
+  "id": "164",
+  "type": "slope",
+  "indicator": "gas_share_energy",
+  "countries": [
+   "United States",
+   "United Kingdom",
+   "Russia",
+   "China",
+   "Germany",
+   "Italy",
+   "Japan",
+   "Turkey"
+  ],
+  "year_from": 2000,
+  "year_to": 2023,
+  "percent": true,
+  "title": "The gas bridge: natural gas in the energy mix (2000 → 2023)",
+  "subtitle": "Natural gas as a share of primary energy · 2000 vs 2023 · selected economies",
+  "post_text": "The 'bridge fuel' that kept growing 🔥\nNatural gas as a share of energy, 2000 → 2023.\n\nThe US rode the shale boom; China climbed off coal; Italy & the UK leaned in. Gas became the swing fuel.\n\nExplore → energtx.com/datasets\n\n#NaturalGas #EnergyTransition #EnergyData #DataViz #RStats"
+ },
+ {
+  "id": "165",
+  "type": "line",
+  "indicator": "per_capita_electricity",
+  "countries": [
+   "China",
+   "India",
+   "Indonesia",
+   "Vietnam",
+   "Bangladesh",
+   "Pakistan"
+  ],
+  "year_from": 1990,
+  "year_to": 2023,
+  "percent": false,
+  "title": "Asia's electricity surge: power use per person (1990 → 2023)",
+  "subtitle": "Electricity generated per person (kWh) · 1990–2023 · emerging Asia",
+  "post_text": "Asia's quiet electricity revolution ⚡\nPower use per person (kWh), 1990 → 2023.\n\nChina's line goes vertical; Vietnam races up; India climbs steadily. Billions of people plugging in changes everything.\n\nExplore → energtx.com/datasets\n\n#Asia #Electricity #Energy #EnergyData #DataViz #RStats"
+ }
+]

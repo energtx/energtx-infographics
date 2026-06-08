@@ -1,0 +1,81 @@
+[
+ {
+  "id": "001",
+  "type": "line",
+  "indicator": "solar_share_elec",
+  "countries": [
+   "China",
+   "United States",
+   "Germany",
+   "India",
+   "Australia",
+   "Spain"
+  ],
+  "year_from": 2010,
+  "year_to": 2024,
+  "percent": true,
+  "title": "Solar's decade: share of electricity from solar (2010 → 2024)",
+  "subtitle": "Solar share of electricity generation · 2010–2024 · selected economies",
+  "post_text": "Solar's decade ☀️\nShare of electricity from solar, 2010 → 2024.\n\nChina, the US, Germany, India, Australia & Spain — a technology that was a rounding error in 2010 now runs in double digits.\n\nExplore → energtx.com/datasets\n\n#Solar #CleanEnergy #EnergyTransition #EnergyData #DataViz #RStats"
+ },
+ {
+  "id": "002",
+  "type": "diverging",
+  "indicator": "fossil_share_energy",
+  "year_from": 2000,
+  "year_to": 2023,
+  "top_n": 16,
+  "percent": true,
+  "title": "Who broke up with fossil fuels? Change in fossil share of energy (2000 → 2023)",
+  "subtitle": "Change in fossil fuels' share of primary energy · 2000 vs 2023 · biggest movers",
+  "post_text": "Who actually broke up with fossil fuels?\nChange in fossil share of primary energy, 2000 → 2023.\n\nTeal bars = decarbonising. Red = leaning in harder. The spread is wider than you'd think.\n\nExplore → energtx.com/datasets\n\n#FossilFuels #EnergyTransition #ClimateData #EnergyData #DataViz #RStats"
+ },
+ {
+  "id": "003",
+  "type": "hbar",
+  "indicator": "renewables_share_elec",
+  "year": 2023,
+  "top_n": 15,
+  "percent": true,
+  "title": "Greenest grids on Earth: renewable share of electricity (2023)",
+  "subtitle": "Top 15 countries by renewables' share of electricity generation · 2023",
+  "post_text": "The greenest grids on Earth 🌍\nTop 15 countries by renewable share of electricity, 2023.\n\nHydro giants and wind-and-solar pioneers share the leaderboard — several already run past 90%.\n\nExplore → energtx.com/datasets\n\n#Renewables #CleanEnergy #EnergyTransition #EnergyData #DataViz #RStats"
+ },
+ {
+  "id": "004",
+  "type": "lollipop",
+  "indicator": "coal_share_elec",
+  "countries": [
+   "United Kingdom",
+   "Germany",
+   "Poland",
+   "Spain",
+   "Italy",
+   "France"
+  ],
+  "year_from": 2000,
+  "year_to": 2023,
+  "percent": true,
+  "title": "Europe quits coal power: coal share of electricity (2000 → 2023)",
+  "subtitle": "Coal's share of electricity generation · 2000 vs 2023 · selected European grids",
+  "post_text": "Europe is quitting coal power.\nCoal's share of electricity, 2000 vs 2023.\n\nThe UK fell from a third of its power to almost none. Germany, Spain, Italy & France pulled back — Poland still leans hard.\n\nExplore → energtx.com/datasets\n\n#Coal #EnergyTransition #ClimateData #EnergyData #DataViz #RStats"
+ },
+ {
+  "id": "005",
+  "type": "facet_area",
+  "countries": [
+   "United States",
+   "Germany",
+   "United Kingdom",
+   "France",
+   "Japan",
+   "Italy",
+   "Canada"
+  ],
+  "year_from": 1990,
+  "year_to": 2023,
+  "title": "How the G7 powers itself: energy mix by source (1990 → 2023)",
+  "subtitle": "Share of primary energy by source · 1990–2023 · G7 economies",
+  "post_text": "How the G7 actually powers itself ⚡\nEnergy mix by source, 1990 → 2023.\n\nCoal fades, gas swells, renewables climb the stack — France stays nuclear, Japan pivots after Fukushima.\n\nExplore → energtx.com/datasets\n\n#EnergyMix #EnergyTransition #G7 #EnergyData #DataViz #RStats"
+ }
+]
