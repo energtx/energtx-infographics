@@ -153,6 +153,16 @@ ggrepel, treemapify, patchwork, countrycode, glue
 | ![The Gas Bridge (2000→2023)](png/164_gas_bridge_slope.png) | ![Asia's Electricity Surge](png/165_asia_electricity_surge.png) |
 | The Gas Bridge (2000→2023) | Asia's Electricity Surge |
 
+
+### OWID Energy — June 2026 batch 4 (absolute scale)
+
+| | | |
+|---|---|---|
+| ![Largest Energy Consumers 2023](png/166_largest_energy_consumers.png) | ![China Overtakes the West (1990→2023)](png/167_total_energy_china_overtakes.png) | ![Change in Energy Use (2000→2023)](png/168_energy_demand_change.png) |
+| Largest Energy Consumers 2023 | China Overtakes the West (1990→2023) | Change in Energy Use (2000→2023) |
+| ![Largest Electricity Producers 2023](png/169_largest_electricity_producers.png) | ![Energy Use vs the Economy 2022](png/170_energy_vs_economy_scatter.png) | |
+| Largest Electricity Producers 2023 | Energy Use vs the Economy 2022 | |
+
 ## File Structure
 
 ```

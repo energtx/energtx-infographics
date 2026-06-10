@@ -40,4 +40,11 @@ Each spec file's internal `id` maps to the published `png/` filename:
 - 164 → `png/164_gas_bridge_slope.png`
 - 165 → `png/165_asia_electricity_surge.png`
 
+**`2026-06_batch4_scale.json`** — absolute energy scale (raw TWh, not shares)
+- 166 → `png/166_largest_energy_consumers.png`
+- 167 → `png/167_total_energy_china_overtakes.png`
+- 168 → `png/168_energy_demand_change.png`
+- 169 → `png/169_largest_electricity_producers.png`
+- 170 → `png/170_energy_vs_economy_scatter.png`
+
 Post captions for all of the above are in `../03_post_texts.md`.

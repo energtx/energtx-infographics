@@ -431,6 +431,56 @@ Explore → energtx.com/datasets
 
 #Asia #Electricity #Energy #EnergyData #DataViz #RStats
 
+## 166 — 166_largest_energy_consumers.png
+Who actually burns the most energy? 🔥
+Total primary energy consumption (TWh), 2023.
+
+Forget per-capita for a second — in raw scale, China and the US dwarf everyone. India is now a clear third.
+
+Explore → energtx.com/datasets
+
+#Energy #EnergyData #China #DataViz #RStats
+
+## 167 — 167_total_energy_china_overtakes.png
+The crossover that reshaped the world ⚡
+Total energy consumption (TWh), 1990 → 2023.
+
+China passed the US around 2009 and never looked back. Japan, Germany & Russia stayed flat or fell.
+
+Explore → energtx.com/datasets
+
+#Energy #China #EnergyTransition #DataViz #RStats
+
+## 168 — 168_energy_demand_change.png
+Where energy demand exploded — and where it shrank 📊
+Change in total energy use (TWh), 2000 → 2023.
+
+Teal = grew (China, India, the Gulf). Coral = shrank (UK, Japan, Italy). Two very different worlds.
+
+Explore → energtx.com/datasets
+
+#Energy #EnergyData #China #DataViz #RStats
+
+## 169 — 169_largest_electricity_producers.png
+Who generates the world's electricity? 🔌
+Total electricity generation (TWh), 2023.
+
+China now produces roughly twice the US — and more than the next several countries combined.
+
+Explore → energtx.com/datasets
+
+#Electricity #Energy #EnergyData #DataViz #RStats
+
+## 170 — 170_energy_vs_economy_scatter.png
+Bigger economy, more energy — usually 💰⚡
+Energy use vs GDP, 2022 (bubble = population).
+
+The link is strong, but not destiny: some nations get far more GDP per unit of energy than others.
+
+Explore → energtx.com/datasets
+
+#Energy #Economy #EnergyData #DataViz #RStats
+
 ---
 # Generated for energtx.bsky.social
 # All data from Our World in Data via energtx.com

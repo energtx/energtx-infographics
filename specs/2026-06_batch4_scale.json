@@ -1,0 +1,31 @@
+[
+ { "id":"166","type":"hbar","indicator":"primary_energy_consumption","year":2023,"top_n":15,"percent":false,
+   "title":"Who burns the most: the world's largest energy consumers (2023)",
+   "subtitle":"Total primary energy consumption (TWh) · 2023 · top 15 countries",
+   "post_text":"Who actually burns the most energy? 🔥\nTotal primary energy consumption (TWh), 2023.\n\nForget per-capita for a second — in raw scale, China and the US dwarf everyone. India is now a clear third.\n\nExplore → energtx.com/datasets\n\n#Energy #EnergyData #China #DataViz #RStats" },
+
+ { "id":"167","type":"line","indicator":"primary_energy_consumption",
+   "countries":["China","United States","India","Russia","Japan","Germany"],
+   "year_from":1990,"year_to":2023,"percent":false,
+   "title":"China overtakes the West: total energy consumption (1990 → 2023)",
+   "subtitle":"Total primary energy consumption (TWh) · 1990–2023 · major economies",
+   "post_text":"The crossover that reshaped the world ⚡\nTotal energy consumption (TWh), 1990 → 2023.\n\nChina passed the US around 2009 and never looked back. Japan, Germany & Russia stayed flat or fell.\n\nExplore → energtx.com/datasets\n\n#Energy #China #EnergyTransition #DataViz #RStats" },
+
+ { "id":"168","type":"diverging","indicator":"primary_energy_consumption","year_from":2000,"year_to":2023,"top_n":16,"percent":false,
+   "countries":["China","United States","India","Russia","Japan","Germany","United Kingdom","France","Italy","Canada","South Korea","Brazil","Australia","Mexico","Indonesia","Saudi Arabia","Turkey","Spain","Netherlands","Poland","Vietnam","Iran"],
+   "title":"Growth and decline: change in total energy use (2000 → 2023)",
+   "subtitle":"Change in total primary energy consumption (TWh) · 2000 vs 2023 · major economies",
+   "post_text":"Where energy demand exploded — and where it shrank 📊\nChange in total energy use (TWh), 2000 → 2023.\n\nTeal = grew (China, India, the Gulf). Coral = shrank (UK, Japan, Italy). Two very different worlds.\n\nExplore → energtx.com/datasets\n\n#Energy #EnergyData #China #DataViz #RStats" },
+
+ { "id":"169","type":"hbar","indicator":"electricity_generation","year":2023,"top_n":15,"percent":false,
+   "title":"Powering the planet: the world's biggest electricity producers (2023)",
+   "subtitle":"Total electricity generation (TWh) · 2023 · top 15 countries",
+   "post_text":"Who generates the world's electricity? 🔌\nTotal electricity generation (TWh), 2023.\n\nChina now produces roughly twice the US — and more than the next several countries combined.\n\nExplore → energtx.com/datasets\n\n#Electricity #Energy #EnergyData #DataViz #RStats" },
+
+ { "id":"170","type":"scatter","x":"gdp","y":"primary_energy_consumption","size":"population","year":2022,
+   "x_percent":false,"y_percent":false,"x_label":"GDP (international $)","y_label":"Primary energy (TWh)",
+   "countries":["China","United States","India","Russia","Japan","Germany","United Kingdom","France","Italy","Canada","South Korea","Brazil","Australia","Mexico","Indonesia","Saudi Arabia","Turkey","Spain","Iran","Nigeria","South Africa","Egypt","Thailand","Vietnam"],
+   "title":"The scale of nations: energy use vs the economy (2022)",
+   "subtitle":"Primary energy consumption vs GDP · bubble = population · 2022",
+   "post_text":"Bigger economy, more energy — usually 💰⚡\nEnergy use vs GDP, 2022 (bubble = population).\n\nThe link is strong, but not destiny: some nations get far more GDP per unit of energy than others.\n\nExplore → energtx.com/datasets\n\n#Energy #Economy #EnergyData #DataViz #RStats" }
+]
