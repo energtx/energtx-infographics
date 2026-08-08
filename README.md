@@ -6,13 +6,20 @@
   <a href="mailto:info@energtx.com"><img src="https://img.shields.io/badge/Contact-info@energtx.com-E2E8F0?style=for-the-badge" alt="Email"></a>
 </p>
 
-**202 infographic visualizations** of global energy data — electricity, renewables, CO₂, fossil fuels, oil crisis, and energy transitions across **56 countries**.
+**203 infographic visualizations** of global energy data — electricity, renewables, CO₂, fossil fuels, oil crisis, and energy transitions across **56 countries**.
 
 Built with **R + ggplot2** using data from [Our World in Data](https://github.com/owid/energy-data) and [JODI Oil World Database](https://www.jodidata.org/oil/). All visuals use the energtx dark theme.
 
 ---
 
 ## Gallery
+
+### Reddit Poster (Aug 2026)
+
+| |
+|---|
+| ![Fossil Peak Poster](png/191_fossil_peak_poster.png) |
+| When Did Fossil Fuels Peak? — 40-country portrait poster |
 
 ### Batch 7 — Premium Editorial Set (Aug 2026)
 

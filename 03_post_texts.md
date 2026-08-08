@@ -681,6 +681,16 @@ Explore → energtx.com/datasets
 
 #WindPower #Solar #EnergyTransition #DataViz #RStats
 
+## 191 — 191_fossil_peak_poster.png
+When did fossil fuels peak? (poster) ⛰️
+Portrait poster, 40 countries: year of peak fossil fuel consumption + decline since peak.
+
+19 of the 40 biggest consumers are past their peak — 21 are still climbing. UK 1973, half a century ago.
+
+Explore → energtx.com/datasets
+
+#FossilFuels #Energy #EnergyTransition #DataViz #RStats
+
 ---
 # Generated for energtx.bsky.social
 # All data from Our World in Data via energtx.com
