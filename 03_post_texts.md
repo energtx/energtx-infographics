@@ -691,6 +691,16 @@ Explore → energtx.com/datasets
 
 #FossilFuels #Energy #EnergyTransition #DataViz #RStats
 
+## 192 — 192_grid_carbon_heatmap_poster.png
+Watch the world's grids turn green (poster) 🟩
+Heatmap: carbon intensity of electricity, 48 countries x 25 years, world-average anchored.
+
+Norway 30 gCO2/kWh, Uzbekistan 1040. The UK row is the drama: coal-red to teal in a decade.
+
+Explore → energtx.com/datasets
+
+#Electricity #CarbonIntensity #EnergyTransition #DataViz #RStats
+
 ---
 # Generated for energtx.bsky.social
 # All data from Our World in Data via energtx.com
