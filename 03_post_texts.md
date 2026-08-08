@@ -481,6 +481,56 @@ Explore → energtx.com/datasets
 
 #Energy #Economy #EnergyData #DataViz #RStats
 
+## 171 — 171_africa_electricity_gap.png
+The electricity gap ⚡
+Electricity use per person (kWh), 2023.
+
+An average American uses 69x the electricity of an average Nigerian. South Africa is the only African economy above the world average.
+
+Explore → energtx.com/datasets
+
+#Energy #Africa #Electricity #DataViz #RStats
+
+## 172 — 172_vietnam_solar_boom.png
+Vietnam's solar explosion ☀️
+Solar share of electricity generation.
+
+From almost nothing in 2018 to double digits two years later — one of the fastest solar ramps ever recorded.
+
+Explore → energtx.com/datasets
+
+#Solar #Vietnam #EnergyTransition #DataViz #RStats
+
+## 173 — 173_wind_solar_vs_nuclear.png
+The crossover: wind + solar pass nuclear 🌬️
+Global electricity generation (TWh), 1990-2024.
+
+Around 2021 wind and solar together overtook nuclear — and the gap has widened every year since.
+
+Explore → energtx.com/datasets
+
+#WindPower #Solar #Nuclear #EnergyTransition #DataViz
+
+## 174 — 174_germany_nuclear_exit.png
+Energiewende: atoms out, turbines in 🇩🇪
+Germany, electricity generation (TWh), 2000-2024.
+
+The last German reactor closed in April 2023. Wind + solar now generate over 200 TWh a year.
+
+Explore → energtx.com/datasets
+
+#Germany #Energiewende #Nuclear #Renewables #DataViz
+
+## 175 — 175_south_asia_rising.png
+South Asia plugs in 🔌
+Electricity use per person (kWh), 2000-2024.
+
+India, Pakistan and Bangladesh: 1.9 billion people, per-capita demand doubling — and still far below the world average.
+
+Explore → energtx.com/datasets
+
+#India #SouthAsia #Electricity #EnergyData #DataViz
+
 ---
 # Generated for energtx.bsky.social
 # All data from Our World in Data via energtx.com

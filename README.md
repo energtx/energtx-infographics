@@ -6,13 +6,23 @@
   <a href="mailto:info@energtx.com"><img src="https://img.shields.io/badge/Contact-info@energtx.com-E2E8F0?style=for-the-badge" alt="Email"></a>
 </p>
 
-**142 infographic visualizations** of global energy data — electricity, renewables, CO₂, fossil fuels, oil crisis, and energy transitions across **56 countries**.
+**187 infographic visualizations** of global energy data — electricity, renewables, CO₂, fossil fuels, oil crisis, and energy transitions across **56 countries**.
 
 Built with **R + ggplot2** using data from [Our World in Data](https://github.com/owid/energy-data) and [JODI Oil World Database](https://www.jodidata.org/oil/). All visuals use the energtx dark theme.
 
 ---
 
 ## Gallery
+
+### Batch 5 — Gaps, Booms & Crossovers (Aug 2026)
+
+| | | |
+|---|---|---|
+| ![Africa Gap](png/171_africa_electricity_gap.png) | ![Vietnam Solar](png/172_vietnam_solar_boom.png) | ![Crossover](png/173_wind_solar_vs_nuclear.png) |
+| The Electricity Gap: Africa | Vietnam's Solar Explosion | Wind + Solar Pass Nuclear |
+| ![Energiewende](png/174_germany_nuclear_exit.png) | ![South Asia](png/175_south_asia_rising.png) | |
+| Energiewende: Atoms Out | South Asia Plugs In | |
+
 
 ### Oil Crisis & JODI Data (2026 Hormuz)
 
