@@ -6,7 +6,7 @@
   <a href="mailto:info@energtx.com"><img src="https://img.shields.io/badge/Contact-info@energtx.com-E2E8F0?style=for-the-badge" alt="Email"></a>
 </p>
 
-**197 infographic visualizations** of global energy data — electricity, renewables, CO₂, fossil fuels, oil crisis, and energy transitions across **56 countries**.
+**202 infographic visualizations** of global energy data — electricity, renewables, CO₂, fossil fuels, oil crisis, and energy transitions across **56 countries**.
 
 Built with **R + ggplot2** using data from [Our World in Data](https://github.com/owid/energy-data) and [JODI Oil World Database](https://www.jodidata.org/oil/). All visuals use the energtx dark theme.
 
@@ -14,7 +14,17 @@ Built with **R + ggplot2** using data from [Our World in Data](https://github.co
 
 ## Gallery
 
+### Batch 7 — Premium Editorial Set (Aug 2026)
+
+| | | |
+|---|---|---|
+| ![Solar Takeoffs](png/186_solar_takeoffs_grid.png) | ![Clean Roads](png/187_roads_to_clean_power.png) | ![Fossil Peaks](png/188_fossil_peak_years.png) |
+| Twelve Solar Take-offs | Many Roads to Clean Power | When Did Fossil Fuels Peak? |
+| ![Quadrant](png/189_wind_sun_quadrant.png) | ![WS Club](png/190_wind_solar_club.png) | |
+| Wind Country, Sun Country | The 25% Wind-and-Solar Club | |
+
 ### Batch 6 — Gulf, ASEAN, Oil & Crossovers (Aug 2026)
+
 
 | | | |
 |---|---|---|

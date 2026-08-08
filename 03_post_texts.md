@@ -631,6 +631,56 @@ Explore → energtx.com/datasets
 
 #China #USA #Electricity #EnergyData #DataViz
 
+## 186 — 186_solar_takeoffs_grid.png
+Twelve solar take-offs ☀️
+Solar share of electricity, 2010-2024, same scale.
+
+Hungary 27%, Chile 25%, Greece 22%... every panel is the same curve at a different launch date.
+
+Explore → energtx.com/datasets
+
+#Solar #EnergyTransition #SmallMultiples #DataViz #RStats
+
+## 187 — 187_roads_to_clean_power.png
+Many roads to clean power 🛣️
+Countries with 90%+ low-carbon electricity, 2024 — and how they get there.
+
+Paraguay & Nepal: dams. France: reactors. Denmark's neighbours: turbines. Kenya: geothermal. There is no single recipe.
+
+Explore → energtx.com/datasets
+
+#CleanEnergy #Renewables #Nuclear #Hydropower #DataViz
+
+## 188 — 188_fossil_peak_years.png
+When did fossil fuels peak? ⛰️
+Year of each country's highest-ever fossil fuel consumption.
+
+UK 1973, Germany & France 1979, US 2007, Japan 2012... and five majors — China, India, Indonesia, Saudi Arabia, Türkiye — still climbing.
+
+Explore → energtx.com/datasets
+
+#FossilFuels #Energy #PeakOil #EnergyTransition #DataViz
+
+## 189 — 189_wind_sun_quadrant.png
+Wind country, sun country 🌬️☀️
+Wind vs solar share of electricity, 2024.
+
+Denmark lives right of everyone; Chile and Hungary bet on the sun; Spain, Greece and the Netherlands went all-in on both.
+
+Explore → energtx.com/datasets
+
+#WindPower #Solar #Renewables #EnergyData #DataViz
+
+## 190 — 190_wind_solar_club.png
+The 25% wind-and-solar club, from zero 📈
+Countries getting over a quarter of their electricity from wind + solar.
+
+2000: zero. 2010: one. 2024: twenty-two — and the curve is still bending upward.
+
+Explore → energtx.com/datasets
+
+#WindPower #Solar #EnergyTransition #DataViz #RStats
+
 ---
 # Generated for energtx.bsky.social
 # All data from Our World in Data via energtx.com
