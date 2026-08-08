@@ -6,7 +6,7 @@
   <a href="mailto:info@energtx.com"><img src="https://img.shields.io/badge/Contact-info@energtx.com-E2E8F0?style=for-the-badge" alt="Email"></a>
 </p>
 
-**187 infographic visualizations** of global energy data — electricity, renewables, CO₂, fossil fuels, oil crisis, and energy transitions across **56 countries**.
+**197 infographic visualizations** of global energy data — electricity, renewables, CO₂, fossil fuels, oil crisis, and energy transitions across **56 countries**.
 
 Built with **R + ggplot2** using data from [Our World in Data](https://github.com/owid/energy-data) and [JODI Oil World Database](https://www.jodidata.org/oil/). All visuals use the energtx dark theme.
 
@@ -14,7 +14,21 @@ Built with **R + ggplot2** using data from [Our World in Data](https://github.co
 
 ## Gallery
 
+### Batch 6 — Gulf, ASEAN, Oil & Crossovers (Aug 2026)
+
+| | | |
+|---|---|---|
+| ![Gulf](png/176_gulf_power_demand.png) | ![China Solar](png/177_china_solar_scale.png) | ![Peak Energy](png/178_west_peak_energy.png) |
+| The Gulf Runs on Full Power | Solar's Capital: Beijing | The West Past Peak Energy |
+| ![ASEAN](png/179_asean_energy_rise.png) | ![Oil Slide](png/180_oil_share_decline.png) | ![VRE Top 10](png/181_wind_solar_leaders.png) |
+| Southeast Asia Switches On | Oil's Long Slide | Variable-Renewables Top 10 |
+| ![Turkiye](png/182_turkiye_wind_solar.png) | ![Brazil](png/183_brazil_hydro_swings.png) | ![Morocco](png/184_morocco_renewables.png) |
+| Türkiye's Wind & Solar | Brazil's Hydro Rollercoaster | Morocco's Renewable Bet |
+| ![China US](png/185_china_us_percapita.png) | | |
+| China Closing In Per Capita | | |
+
 ### Batch 5 — Gaps, Booms & Crossovers (Aug 2026)
+
 
 | | | |
 |---|---|---|

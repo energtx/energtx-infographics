@@ -531,6 +531,106 @@ Explore → energtx.com/datasets
 
 #India #SouthAsia #Electricity #EnergyData #DataViz
 
+## 176 — 176_gulf_power_demand.png
+The Gulf runs on full power 🏜️⚡
+Electricity use per person (kWh), 1990-2024.
+
+UAE and Saudi Arabia use 3-4x the world average — air conditioning, desalination and industry never sleep.
+
+Explore → energtx.com/datasets
+
+#Energy #UAE #SaudiArabia #Electricity #DataViz
+
+## 177 — 177_china_solar_scale.png
+Solar has a capital, and it is Beijing ☀️
+Solar electricity generation (TWh), 2010-2024.
+
+China now generates almost as much solar power as the rest of the world combined.
+
+Explore → energtx.com/datasets
+
+#Solar #China #EnergyTransition #DataViz #RStats
+
+## 178 — 178_west_peak_energy.png
+The West is past peak energy 📉
+Primary energy use per person (kWh), 1965-2024.
+
+The US, Germany, the UK and Japan all peaked decades ago — efficiency and deindustrialisation bent the curve down.
+
+Explore → energtx.com/datasets
+
+#Energy #EnergyEfficiency #EnergyData #DataViz #RStats
+
+## 179 — 179_asean_energy_rise.png
+Southeast Asia switches on 🌏
+Primary energy consumption (TWh), 2000-2024.
+
+Indonesia, Vietnam, Thailand, Malaysia, Philippines: five ASEAN economies, one relentless climb.
+
+Explore → energtx.com/datasets
+
+#ASEAN #Indonesia #Vietnam #Energy #DataViz
+
+## 180 — 180_oil_share_decline.png
+Oil's long slide 🛢️
+Oil's share of global primary energy, 1965-2024.
+
+From 50% at its 1973 peak to ~32% today — still the biggest fuel, but far from its heyday.
+
+Explore → energtx.com/datasets
+
+#Oil #Energy #EnergyTransition #DataViz #RStats
+
+## 181 — 181_wind_solar_leaders.png
+The variable-renewables top 10 🌬️☀️
+Wind + solar share of electricity, 2024.
+
+Denmark 69%, Lithuania 65% — and the rest of the top 10 all above 39%.
+
+Explore → energtx.com/datasets
+
+#WindPower #Solar #Renewables #Denmark #DataViz
+
+## 182 — 182_turkiye_wind_solar.png
+Türkiye catches the wind (and the sun) 🇹🇷
+Wind + solar share of electricity, 2000-2024.
+
+From zero to 21.7% in two decades — Anatolia's wind corridors and solar plains are paying off.
+
+Explore → energtx.com/datasets
+
+#Türkiye #WindPower #Solar #EnergyTransition #DataViz
+
+## 183 — 183_brazil_hydro_swings.png
+Brazil's hydro rollercoaster 💧
+Hydropower share of electricity, 1990-2024.
+
+From 93% to 52%: droughts in 2001, 2014 and 2021 carved the dips — and pushed Brazil toward wind and solar.
+
+Explore → energtx.com/datasets
+
+#Brazil #Hydropower #Energy #DataViz #RStats
+
+## 184 — 184_morocco_renewables.png
+Morocco's renewable bet 🇲🇦
+Renewables share of electricity, 2000-2024.
+
+Noor solar, Atlantic wind — a quarter of Moroccan electricity is now renewable.
+
+Explore → energtx.com/datasets
+
+#Morocco #Renewables #Solar #Africa #DataViz
+
+## 185 — 185_china_us_percapita.png
+Per person, China is closing in 🔌
+Electricity use per person (kWh), 1990-2024.
+
+Total generation was passed long ago — now even per-capita use is closing on the US.
+
+Explore → energtx.com/datasets
+
+#China #USA #Electricity #EnergyData #DataViz
+
 ---
 # Generated for energtx.bsky.social
 # All data from Our World in Data via energtx.com
