@@ -14,6 +14,13 @@ Built with **R + ggplot2** using data from [Our World in Data](https://github.co
 
 ## Gallery
 
+### Batch 8 — Electricity Focus (Aug 2026)
+
+| | | |
+|---|---|---|
+| ![New Electricity](png/193_new_electricity_waterfall.png) | ![Coal Retreat](png/194_coal_retreat_arrows.png) | ![Power Mix](png/195_world_power_mix_40y.png) |
+| Half the World's New Electricity Is Wind and Sun — 2014→2024 waterfall | Coal's Retreat and Its Holdouts — 2010→2024 arrow plot | Forty Years of the World's Power Mix — 1985→2024 stacked area |
+
 ### Reddit Poster (Aug 2026)
 
 | |

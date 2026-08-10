@@ -701,6 +701,30 @@ Explore → energtx.com/datasets
 
 #Electricity #CarbonIntensity #EnergyTransition #DataViz #RStats
 
+## 193 — 193_new_electricity_waterfall.png
+Half the world's new electricity is wind and sun ⚡
+2014→2024 the world added 7,183 TWh. Solar +1,945, wind +1,803 — 52% of all the growth. Gas and coal still rose; only oil-fired power shrank.
+
+Explore → energtx.com/datasets
+
+#Solar #WindPower #Electricity #EnergyTransition #DataViz
+
+## 194 — 194_coal_retreat_arrows.png
+Coal's retreat — and its holdouts 🪨
+Coal's share of electricity, 2010→2024. UK 28%→0.7%, Poland −33 pts, the US −30. But Vietnam +33, Indonesia +23, Pakistan +14.
+
+Explore → energtx.com/datasets
+
+#Coal #Electricity #EnergyTransition #ClimateData #DataViz
+
+## 195 — 195_world_power_mix_40y.png
+Forty years of the world's power mix 🌍
+Global electricity by source, 1985→2024. Output tripled to 30,930 TWh. Wind + solar: 0.08 TWh then, 4,652 TWh now — 15% of world electricity.
+
+Explore → energtx.com/datasets
+
+#Electricity #Renewables #EnergyData #Solar #DataViz
+
 ---
 # Generated for energtx.bsky.social
 # All data from Our World in Data via energtx.com
