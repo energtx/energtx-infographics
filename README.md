@@ -14,6 +14,18 @@ Built with **R + ggplot2** using data from [Our World in Data](https://github.co
 
 ## Gallery
 
+### Batch 9 — Built from energtx.com's own database (Aug 2026)
+
+Scraped from the site's country pages: 235,061 records, 106 countries, 174 indicators.
+Pipeline and data notes in [`energtx-site/`](energtx-site/).
+
+| | | |
+|---|---|---|
+| ![Fingerprints](png/196_grid_fingerprints.png) | ![Transition Plane](png/197_transition_plane.png) | ![Ridgeline](png/198_windsolar_ridgeline.png) |
+| Fingerprints of the Grid — 24 electricity mixes as Nightingale roses | The Transition Plane — fossil share vs wind+solar, 2000→2024 paths | The Melting of Zero — wind+solar distribution ridgeline |
+| ![League Table](png/199_windsolar_league.png) | ![Grid Poster](png/200_grid_poster.png) | |
+| The Wind-and-Solar League Table — sigmoid bump, 2010→2024 | Twenty-Five Years, Twenty-Four Grids — composed poster | |
+
 ### Batch 8 — Electricity Focus (Aug 2026)
 
 | | | |

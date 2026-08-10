@@ -725,6 +725,56 @@ Explore → energtx.com/datasets
 
 #Electricity #Renewables #EnergyData #Solar #DataViz
 
+## 196 — 196_grid_fingerprints.png
+Fingerprints of the grid 🌐
+Every country's 2024 electricity mix as a rose: each petal is one source, its area is that source's share.
+
+Fossil petals open left, low-carbon right — the silhouette alone tells you which way a grid leans.
+
+Explore → energtx.com/datasets
+
+#Electricity #EnergyTransition #Renewables #DataViz #RStats
+
+## 197 — 197_transition_plane.png
+The transition plane 🧭
+Every big grid's 25-year path: fossil share across, wind+solar share up.
+
+Germany went 64%→41% fossil while wind+solar went 2%→44%. France and Brazil sit far left but low — hydro and nuclear got there first.
+
+Explore → energtx.com/datasets
+
+#EnergyTransition #WindPower #Solar #DataViz #RStats
+
+## 198 — 198_windsolar_ridgeline.png
+The melting of zero ❄️
+In 2000, 100 of 106 countries got under 1% of their power from wind and solar. By 2024 only 21 did.
+
+Every ridge shares one height scale, so the collapsing spike at zero is real, not restretched.
+
+Explore → energtx.com/datasets
+
+#Solar #WindPower #EnergyData #DataViz #RStats
+
+## 199 — 199_windsolar_league.png
+The wind-and-solar league table 🏆
+All 19 of these countries raised their wind+solar share since 2010 — and eight still fell in the table.
+
+India went 2.1%→11.0% and dropped nine places. A league measures speed against the field, not effort.
+
+Explore → energtx.com/datasets
+
+#WindPower #Solar #EnergyTransition #DataViz #RStats
+
+## 200 — 200_grid_poster.png
+Twenty-five years, twenty-four grids ⚡
+How the world's largest electricity producers actually make their power, 2000→2024.
+
+Watch the UK's coal band collapse and Germany's nuclear band vanish. Countries above 25% wind+solar: 0 → 20.
+
+Explore → energtx.com/datasets
+
+#Electricity #EnergyTransition #Renewables #DataViz #RStats
+
 ---
 # Generated for energtx.bsky.social
 # All data from Our World in Data via energtx.com
